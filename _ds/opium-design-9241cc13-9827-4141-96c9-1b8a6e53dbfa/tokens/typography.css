@@ -1,0 +1,10 @@
+:root{
+--text-display-1:clamp(56px,9vw,120px);--lh-display-1:.92;/* @kind other */--ls-display-1:-.01em;
+--text-display-2:clamp(40px,6vw,72px);--lh-display-2:.94;/* @kind other */
+--text-display-3:clamp(30px,4vw,48px);--lh-display-3:.98;/* @kind other */
+--text-h1:34px;--lh-h1:1.08;/* @kind other */--text-h2:26px;--lh-h2:1.15;/* @kind other */--text-h3:20px;--lh-h3:1.25;/* @kind other */
+--text-body-lg:19px;--lh-body-lg:1.55;/* @kind other */--text-body:16px;--lh-body:1.6;/* @kind other */--text-body-sm:14px;--lh-body-sm:1.55;/* @kind other */
+--text-caption:12px;--lh-caption:1.4;/* @kind other */--text-mono:13px;--lh-mono:1.5;/* @kind other */
+--tracking-tighter:-.02em;/* @kind other */--tracking-normal:0em;/* @kind other */--tracking-wide:.04em;/* @kind other */--tracking-stamp:.14em;/* @kind other */--tracking-label:.18em;/* @kind other */
+--weight-regular:400;/* @kind other */--weight-medium:500;/* @kind other */--weight-semibold:600;/* @kind other */--weight-bold:700;/* @kind other */--weight-black:800/* @kind other */
+}
